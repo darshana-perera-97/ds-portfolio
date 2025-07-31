@@ -602,8 +602,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-icon i {
-    font-size: 32px;
-    color: #ffffff;
+    font-size: 24px;
+    color: #2d3748;
 }
 
 .single-service:hover .service-icon {
@@ -673,7 +673,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .contact-icon i {
     font-size: 24px;
-    color: white;
+    color: #2d3748;
 }
 
 /* Form Styles */

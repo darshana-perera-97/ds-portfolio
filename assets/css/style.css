@@ -899,9 +899,9 @@ p {
     .single-service {
       padding: 15px; } }
   .single-service .service-icon i {
-    font-size: 60px;
-    color: #754ef9;
-    line-height: 56px; }
+    font-size: 24px;
+    color: #2d3748;
+    line-height: 24px; }
   .single-service .service-content {
     margin-top: 11px; }
     .single-service .service-content .service-title a {
@@ -1273,8 +1273,8 @@ p {
     .contact-box {
       padding: 30px 25px; } }
   .contact-box .contact-icon i {
-    font-size: 48px;
-    color: #754ef9; }
+    font-size: 24px;
+    color: #2d3748; }
   .contact-box .contact-content {
     margin-top: 15px; }
     .contact-box .contact-content .contact-title {
